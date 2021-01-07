@@ -1,0 +1,21 @@
+{
+    "name": "jwl/learn_composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "大垒哥",
+            "email": "2423561050@qq.com"
+        }
+    ],
+    "license": "MIT",
+    "description": "淘宝小程序类库",
+    "keywords": ["jwl","cunzhang","learn"],
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lib\\Country\\": "src/"
+        }
+    }
+}
