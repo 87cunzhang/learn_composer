@@ -12,6 +12,6 @@ class Maps
 {
     public function go()
     {
-        return 'go to beijing.';
+        return 'go to beijing..';
     }
 }
