@@ -9,6 +9,6 @@ class Country
 {
     public function china()
     {
-        return 'I love China 333';
+        return 'I love China main';
     }
 }
