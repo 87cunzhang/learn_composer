@@ -17,6 +17,9 @@
         "psr-4": {
             "Lib\\": "Lib/",
             "Tools\\": "Tools/"
-        }
+        },
+        "files": [
+            "common/functions.php"
+        ]
     }
 }

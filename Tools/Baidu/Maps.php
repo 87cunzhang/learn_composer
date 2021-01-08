@@ -10,6 +10,9 @@ namespace Tools\Baidu;
 
 class Maps
 {
+    /**
+     * @return string
+     */
     public function go()
     {
         return 'go to beijing..';
