@@ -1,5 +1,11 @@
 {
     "name": "jwl/learn_composer",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/87cunzhang/learn_composer.git"
+        }
+    ],
     "type": "library",
     "authors": [
         {
