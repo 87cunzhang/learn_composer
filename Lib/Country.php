@@ -4,7 +4,7 @@
  * Date: 2021-01-07
  * Time: 16:30
  */
-namespace Libs;
+namespace Lib;
 class Country
 {
     public function china()
